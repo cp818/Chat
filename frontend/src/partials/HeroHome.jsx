@@ -48,9 +48,9 @@ function HeroHome() {
               className="mb-4 text-5xl font-extrabold tracking-tighter md:text-6xl leading-tighter"
               data-aos="zoom-y-out"
             >
-              AI Powered Chatbot <br />
+              PLG Powered Chatbot <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-yellow-400">
-                Bumblebee
+                Clara
               </span>
             </h1>
             <div className="max-w-3xl mx-auto">
@@ -59,9 +59,9 @@ function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay="150"
               >
-                Bumblebee is an AI powered chatbot that can help you with your
-                queries. It is a web based application that can be accessed from
-                anywhere.
+                Clara is a chatbot that can help you with your
+                medical questions. It's a web-based application that can be accessed from
+                anywhere.More coming soon.
               </p>
               <div
                 className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center"

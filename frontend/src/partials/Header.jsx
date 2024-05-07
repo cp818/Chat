@@ -27,11 +27,11 @@ function Header() {
             <Link
               to="/"
               className="flex items-center gap-4"
-              aria-label="Bumblebee"
+              aria-label="Clara"
             >
               <img src={favicon} alt="" className="h-9 w-9" />
               <span className="text-xl font-bold tracking-wider text-gray-800 uppercase hidden sm:inline-block">
-                Bumblebee
+                Clara
               </span>
             </Link>
           </div>
@@ -41,7 +41,7 @@ function Header() {
             <ul className="flex flex-wrap items-center justify-end flex-grow">
               <li>
                 <Link
-                  to="https://github.com/jrTilak/BumbleBee"
+                  to="https://github.com/meca-technologies"
                   target="_blank"
                   className="flex items-center px-5 py-3 font-medium text-gray-600 transition duration-150 ease-in-out hover:text-gray-900"
                 >

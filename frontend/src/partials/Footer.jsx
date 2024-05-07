@@ -10,7 +10,7 @@ function Footer() {
           <ul className="flex mb-4 md:order-1 md:ml-4 md:mb-0">
             <li className="ml-4">
               <Link
-                to="https://github.com/jrTilak"
+                to="https://github.com/meca-technologies"
                 className="flex items-center justify-center text-gray-600 transition duration-150 ease-in-out bg-white rounded-full shadow hover:text-gray-900 hover:bg-white-100"
                 aria-label="Github"
               >
@@ -30,9 +30,9 @@ function Footer() {
             Made by{" "}
             <a
               className="text-blue-600 hover:underline"
-              href="https://thapatilak.com.np/"
+              href="https://puretalk.ai/"
             >
-              jrTilak
+              Puretalk
             </a>
             . All rights reserved.
           </div>
